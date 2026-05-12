@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /x9-demand-framework-v1-a2z7.html
